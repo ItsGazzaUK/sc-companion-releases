@@ -1,1 +1,1 @@
-{"maintenance": false, "message": "We're doing updates right now. Back soon!", "min_version": "0.9.110", "admins": ["TheScottishOne89"], "require_login": true, "twitch_client_id": "qy6g06y6zjh8q3w4ocud06mytgcpsy"}
+{"maintenance": false, "message": "We're doing updates right now. Back soon!", "min_version": "0.9.110", "admins": ["TheScottishOne89"], "require_login": true, "twitch_client_id": "qy6g06y6zjh8q3w4ocud06mytgcpsy", "coin_grants": [{"id": "1795515108369", "to": "itsgazzauk", "amount": 10000, "note": ""}]}
